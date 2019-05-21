@@ -1,0 +1,1 @@
+{"errors":[{"message":"Field \"draft\" is not defined by type MarkdownRemarkFrontmatterFilterInput.","locations":[{"line":16,"column":95}]},{"message":"Cannot query field \"draft\" on type \"MarkdownRemarkFrontmatter\".","locations":[{"line":24,"column":11}]}],"pageContext":{"isCreatedByStatefulCreatePages":true}}
